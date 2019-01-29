@@ -1,0 +1,8 @@
+body {
+	background-color:rgb(138, 136, 136);
+}
+
+.responsive-img {
+	height: 300px;
+	width: 300px;
+}
